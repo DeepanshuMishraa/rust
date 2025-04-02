@@ -15,6 +15,10 @@ path="src/fib.rs"
 name="guess"
 path="src/guess.rs"
 
+[[bin]]
+name="bank"
+path="src/bank.rs"
+
 
 
 
